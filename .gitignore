@@ -1,4 +1,10 @@
 *.log
 *.pot
 *.pyc
-local_settings.py
+
+.*.sw[a-z]
+*.un~
+Session.vim
+.netrwhist
+
+ibf/local_settings.py
